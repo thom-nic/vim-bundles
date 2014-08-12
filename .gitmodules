@@ -37,3 +37,9 @@
 [submodule "powerline"]
 	path = powerline
 	url = git@github.com:Lokaltog/powerline.git
+[submodule "rainbow_parentheses.vim"]
+	path = rainbow_parentheses.vim
+	url = git@github.com:kien/rainbow_parentheses.vim.git
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = git@github.com:kien/ctrlp.vim.git
