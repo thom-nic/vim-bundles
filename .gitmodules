@@ -37,3 +37,12 @@
 [submodule "ctrlp.vim"]
 	path = ctrlp.vim
 	url = git@github.com:kien/ctrlp.vim.git
+[submodule "vim-airline"]
+	path = vim-airline
+	url = git@github.com:bling/vim-airline.git
+[submodule "base16-vim"]
+	path = base16-vim
+	url = git@github.com:chriskempson/base16-vim.git
+[submodule "powerline-fonts"]
+	path = powerline-fonts
+	url = git@github.com:Lokaltog/powerline-fonts.git
