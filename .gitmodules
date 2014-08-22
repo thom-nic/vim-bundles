@@ -25,18 +25,12 @@
 [submodule "vim-go"]
 	path = vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "vim-vividchalk"]
-	path = vim-vividchalk
-	url = git@github.com:tpope/vim-vividchalk.git
 [submodule "molokai"]
 	path = molokai
 	url = git@github.com:tomasr/molokai.git
 [submodule "nerdtree"]
 	path = nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
-[submodule "powerline"]
-	path = powerline
-	url = git@github.com:Lokaltog/powerline.git
 [submodule "rainbow_parentheses.vim"]
 	path = rainbow_parentheses.vim
 	url = git@github.com:kien/rainbow_parentheses.vim.git
